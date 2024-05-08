@@ -1,0 +1,8 @@
+nico|kode|1
+torben|træner|2
+allan|alsport|2
+Karen|Konto|3
+nico2|kode2|1
+nico3|kode3|1
+karsten|kaster|2
+Rikke|regnskab|3
